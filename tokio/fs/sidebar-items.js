@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["metadata","Queries the file system metadata for a path."]],"mod":[["file","Types for working with [`File`]."]],"struct":[["File","A reference to an open file on the filesystem."],["OpenOptions","Options and flags which can be used to configure how a file is opened."]]});
